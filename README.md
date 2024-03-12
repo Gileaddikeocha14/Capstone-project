@@ -1,4 +1,4 @@
-explanetion of the capstone project:
+explanation of the capstone project:
 
 The project is divided into three sections
 section one: This section focus on the Code.The code is all about deploying applications on kubernetes.
